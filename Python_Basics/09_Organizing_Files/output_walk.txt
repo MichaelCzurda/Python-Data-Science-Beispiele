@@ -1,0 +1,39 @@
+The current folder is C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS
+	SUBFOLDER OF C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS: 07_projects
+	SUBFOLDER OF C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS: 08_Reading_and_Writing_Files
+	SUBFOLDER OF C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS: 09_Organizing_Files
+
+The current folder is C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\07_projects
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\07_projects: regex_strip_func.py
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\07_projects: Strong_password_detection.py
+
+The current folder is C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files
+	SUBFOLDER OF C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files: projects
+	SUBFOLDER OF C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files: __pycache__
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files: 0801_files_and_paths.py
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files: 0802_os_path_module.py
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files: 0803_file_reading_writing.py
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files: bacon.txt
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files: hello.txt
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files: myCats.py
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files: mydata.bak
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files: mydata.dat
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files: mydata.dir
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files: sonnet29.txt
+	
+The current folder is C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files\projects
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files\projects: 0804_project_random_quiz.py
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files\projects: 0805_mulitclipboard.pyw
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files\projects: mcb.bak
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files\projects: mcb.dat
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files\projects: mcb.dir
+
+The current folder is C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files\__pycache__
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\08_Reading_and_Writing_Files\__pycache__: myCats.cpython-36.pyc
+	
+The current folder is C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\09_Organizing_Files
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\09_Organizing_Files: 0901_shutil_module.py
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\09_Organizing_Files: 0902_walking_directory_tree.py
+	FILE INSIDE C:\Users\michaelc.AITC\Documents\Python Scripts\ATBS\09_Organizing_Files: windows-version.txt
+
+
